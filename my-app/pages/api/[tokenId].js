@@ -14,3 +14,4 @@ export default function handler(req, res) {
     image: image_url + tokenId + ".svg",
   });
 }
+//the End
